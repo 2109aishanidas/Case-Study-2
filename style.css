@@ -6,9 +6,11 @@ body{
 }
 .img1{
     background:rgb(240, 204, 210);
-    height: 400px;
-    width: 400px;
+    height:450px;
+    width: 450px;
+    font-size: 18px;
 }
+
 #result{
     background:lemonchiffon;
 }
@@ -26,6 +28,6 @@ body{
 }
 
 img{
-    width: 200;
-    height: 200;
+    width: 100;
+    height:100;
 }
